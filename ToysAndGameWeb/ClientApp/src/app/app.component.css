@@ -1,0 +1,138 @@
+
+
+.title1{
+  font-family:'Bree Serif';
+  font-size: 38px;
+  font-weight: bold;
+  text-shadow: 4px 4px 2px white;
+  padding-top: 50px;
+}
+
+
+.title2 {
+  padding-top: 70px;
+  font-family: 'Luckiest Guy';
+  text-shadow: 4px 4px 3px white;
+  font-size: 60px;
+}
+.title3 {
+  font-family: 'Luckiest Guy';
+  text-shadow: 4px 4px 3px white;
+  color: red;
+  padding-top:65px;
+  font-size: 53px;
+}
+.text4 {
+  color: #f5a9bc;
+  font-family: 'Luckiest Guy';
+  text-shadow: 3px 3px 3px black;
+  font-size: 29px;
+
+}
+footer {
+  float: right;
+  font-family: 'Bree Serif';
+}
+
+
+.InsertInfo {
+  font-family: 'Bree Serif';
+  font-size: 21px;
+  color: #F3F781;
+}
+.btnDanger {
+  float: left;
+  margin: 20px;
+  background:blueviolet;
+  border: pink;
+}
+  .btnDanger:hover
+  {
+    background:violet;
+  }
+
+
+thead {
+  background-color: #F5A9BC;
+  font-weight: bold;
+  color: bisque;
+}
+tbody {
+
+  color: black;
+  font-weight: bold;
+}
+thead:hover {
+  background: mediumaquamarine;
+}
+
+.center {
+  text-align: center;
+}
+.imagen-principal {
+  background-image: url('../assets/divToys.jpg');
+  width: 100%;
+  height: 400px;
+}
+.childIma {
+  width: 260px;
+  height:310px;
+}
+.divIma {
+  float: left;
+}
+.logo {
+  margin: 11px;
+  width:170px;
+  height: 150px;
+  padding-top: 20px;
+}
+
+.t2 {
+  width: 30%;
+  float: left;
+}
+.t3 {
+  width: 60%;
+  float: left;
+}
+.btn-warning {
+  float: right;
+  border: 2px;
+}
+.btn2:hover {
+  background: black;
+  border-bottom: 3px solid magenta;
+  font-size: 17px;
+  color: white;
+}
+.container2 {
+  background: black;
+  border: none;
+  cursor: pointer;
+  margin: 5px;
+  width: 30%;
+  height: 35px;
+  border-radius: 15px;
+  border-bottom: 4px solid mediumaquamarine;
+  transition: all .6s ease;
+  font-size: 15px;
+  font-family: bold;
+  color: white;
+  outline: none;
+}
+.container {
+  background: grey;
+  border-radius: 25px;
+  opacity: .9;
+  height: 175px;
+}
+.btn3 {
+  margin: 8px;
+}
+form span {
+  color: red;
+}
+
+
+

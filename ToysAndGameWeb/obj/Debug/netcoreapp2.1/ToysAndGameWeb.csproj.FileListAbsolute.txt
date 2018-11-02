@@ -1,0 +1,6 @@
+C:\Users\maria.miramontes\source\repos\ToysAndGameWeb\ToysAndGameWeb\obj\Debug\netcoreapp2.1\ToysAndGameWeb.csprojAssemblyReference.cache
+C:\Users\maria.miramontes\source\repos\ToysAndGameWeb\ToysAndGameWeb\obj\Debug\netcoreapp2.1\ToysAndGameWeb.csproj.CoreCompileInputs.cache
+C:\Users\maria.miramontes\source\repos\ToysAndGameWeb\ToysAndGameWeb\obj\Debug\netcoreapp2.1\ToysAndGameWeb.RazorAssemblyInfo.cache
+C:\Users\maria.miramontes\source\repos\ToysAndGameWeb\ToysAndGameWeb\obj\Debug\netcoreapp2.1\ToysAndGameWeb.RazorAssemblyInfo.cs
+C:\Users\maria.miramontes\source\repos\ToysAndGameWeb\ToysAndGameWeb\obj\Debug\netcoreapp2.1\ToysAndGameWeb.AssemblyInfoInputs.cache
+C:\Users\maria.miramontes\source\repos\ToysAndGameWeb\ToysAndGameWeb\obj\Debug\netcoreapp2.1\ToysAndGameWeb.AssemblyInfo.cs
